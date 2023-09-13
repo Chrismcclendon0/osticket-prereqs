@@ -49,5 +49,7 @@ Allow Azure to auto create a resource group. Name your virtual machine, select d
 
 </p>
 <p>
-Next select the "Networking" tab and confirm that the "Virtual network, subnet, and Public IP" will all be created by default. Once completed select "Review and create" to create your virtual machine.</p>
+Next select the "Networking" tab and confirm that the "Virtual network, subnet, and Public IP" will all be created by default. Once completed select "Review and create" to create your virtual machine.
+
+Select your newly made virtual machine, copy the public IP address and enter it into remote desktop as a new user. Enter the username and password then connect. </p>
 <br />
