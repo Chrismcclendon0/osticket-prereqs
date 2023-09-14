@@ -55,5 +55,10 @@ Next select the "Networking" tab and confirm that the "Virtual network, subnet, 
 
 Select your newly made virtual machine, copy the public IP address and enter it into remote desktop as a new user. Enter the username and password then connect.
 
-Open the installation files included in the "Prerequsites" section and install Internet information Services (IIS). Enable IIS in windows with CGI and Common HTTP features, and IIS Management Console. From the installation files download and install "PHP Manager for IIS", "Rewrite Module". Create the directory "C:\PHP" then download "PHP 7.3.8" from the installation files and unzip the contents into C:\PHP. </p>
+![image](https://github.com/Chrismcclendon0/osticket-prereqs/assets/144953146/b655a02c-21a9-4297-9811-9897099a86a4)
+
+Open the installation files included in the "Prerequsites" section and install Internet information Services (IIS). Enable IIS in windows with CGI and Common HTTP features, and IIS Management Console. From the installation files download and install "PHP Manager for IIS", "Rewrite Module". Create the directory "C:\PHP" then download "PHP 7.3.8" from the installation files and unzip the contents into C:\PHP.
+
+![image](https://github.com/Chrismcclendon0/osticket-prereqs/assets/144953146/86f49cb9-b331-4346-b1b6-1880453c3a82)
+</p>
 <br />
