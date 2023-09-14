@@ -51,5 +51,9 @@ Allow Azure to auto create a resource group. Name your virtual machine, select d
 <p>
 Next select the "Networking" tab and confirm that the "Virtual network, subnet, and Public IP" will all be created by default. Once completed select "Review and create" to create your virtual machine.
 
-Select your newly made virtual machine, copy the public IP address and enter it into remote desktop as a new user. Enter the username and password then connect. </p>
+  ![image](https://github.com/Chrismcclendon0/osticket-prereqs/assets/144953146/1383c720-5029-45f8-8431-528cbb3f3719)
+
+Select your newly made virtual machine, copy the public IP address and enter it into remote desktop as a new user. Enter the username and password then connect.
+
+Open the installation files included in the "Prerequsites" section and install Internet information Services (IIS). Enable IIS in windows with CGI and Common HTTP features, and IIS Management Console. From the installation files download and install "PHP Manager for IIS", "Rewrite Module". Create the directory "C:\PHP" then download "PHP 7.3.8" from the installation files and unzip the contents into C:\PHP. </p>
 <br />
