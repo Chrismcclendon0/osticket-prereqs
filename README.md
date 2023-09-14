@@ -75,6 +75,8 @@ Enable: php_intl.dll,
 Enable: php_opcache.dll.
 Refresh the osTicket site in your browse, observe the changes
 
+![image](https://github.com/Chrismcclendon0/osticket-prereqs/assets/144953146/b014ae16-bd90-46da-8cb2-5d893391d6dd)
+
 Rename: ost-config.php
 From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
 To: C:\inetpub\wwwroot\osTicket\include\ost-config.php. Assign Permissions: ost-config.php. Disable inheritance -> Remove All, New Permissions -> Everyone -> All.
