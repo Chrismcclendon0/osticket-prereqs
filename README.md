@@ -66,11 +66,18 @@ Open the installation files included in the "Prerequsites" section and install I
 Open IIS as an Admin. Register PHP from within IIS. Reload IIS (Open IIS, Stop and Start the server). Install osTicket v1.15.8 then download osTicket from the installation files folder. Extract and copy “upload” folder to c:\inetpub\wwwroot. Within c:\inetpub\wwwroot, rename “upload” to “osTicket”
 
 ![image](https://github.com/Chrismcclendon0/osticket-prereqs/assets/144953146/e6489fdc-424a-499d-a507-7ed0118ededa)
+![image](https://github.com/Chrismcclendon0/osticket-prereqs/assets/144953146/c6791003-9f03-4f99-9ce3-09ef914b60c3)
+
 Note that some extensions are not enabled. Go back to IIS, sites -> Default -> osTicket
 Double-click PHP Manager. Click “Enable or disable an extension”
 Enable: php_imap.dll,
 Enable: php_intl.dll,
 Enable: php_opcache.dll.
 Refresh the osTicket site in your browse, observe the changes
+
+Rename: ost-config.php
+From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+To: C:\inetpub\wwwroot\osTicket\include\ost-config.php. Assign Permissions: ost-config.php. Disable inheritance -> Remove All, New Permissions -> Everyone -> All.
+Continue Setting up osTicket in the browser (click Continue). Name Helpdesk. Default email (receives email from customers).
 </p>
 <br />
