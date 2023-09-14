@@ -65,6 +65,6 @@ Open the installation files included in the "Prerequsites" section and install I
 
 Open IIS as an Admin. Register PHP from within IIS. Reload IIS (Open IIS, Stop and Start the server). Install osTicket v1.15.8 then download osTicket from the installation files folder. Extract and copy “upload” folder to c:\inetpub\wwwroot. Within c:\inetpub\wwwroot, rename “upload” to “osTicket”
 
-
+![image](https://github.com/Chrismcclendon0/osticket-prereqs/assets/144953146/e6489fdc-424a-499d-a507-7ed0118ededa)
 </p>
 <br />
