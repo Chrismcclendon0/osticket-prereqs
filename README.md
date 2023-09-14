@@ -81,5 +81,8 @@ Rename: ost-config.php
 From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
 To: C:\inetpub\wwwroot\osTicket\include\ost-config.php. Assign Permissions: ost-config.php. Disable inheritance -> Remove All, New Permissions -> Everyone -> All.
 Continue Setting up osTicket in the browser (click Continue). Name Helpdesk. Default email (receives email from customers).
+
+![image](https://github.com/Chrismcclendon0/osticket-prereqs/assets/144953146/ad10d355-a7a7-4adb-9df4-7f2891a8ed98)
+
 </p>
 <br />
