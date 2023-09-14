@@ -96,5 +96,10 @@ MySQL Database: osTicket
 MySQL Username: root
 MySQL Password: Password1
 Click “Install Now!”
+
+![image](https://github.com/Chrismcclendon0/osticket-prereqs/assets/144953146/fc76f679-2fd7-4ff3-bc43-306169612bdf)
+
+Congratulations, hopefully it is installed with no errors!
+Browse to your help desk login page: http://localhost/osTicket/scp/login.php
 </p>
 <br />
