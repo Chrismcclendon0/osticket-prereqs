@@ -76,13 +76,14 @@ Enable: php_opcache.dll.
 Refresh the osTicket site in your browse, observe the changes
 
 ![image](https://github.com/Chrismcclendon0/osticket-prereqs/assets/144953146/b014ae16-bd90-46da-8cb2-5d893391d6dd)
-
+![image](https://github.com/Chrismcclendon0/osticket-prereqs/assets/144953146/ad10d355-a7a7-4adb-9df4-7f2891a8ed98)
 Rename: ost-config.php
 From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
 To: C:\inetpub\wwwroot\osTicket\include\ost-config.php. Assign Permissions: ost-config.php. Disable inheritance -> Remove All, New Permissions -> Everyone -> All.
 Continue Setting up osTicket in the browser (click Continue). Name Helpdesk. Default email (receives email from customers).
 
-![image](https://github.com/Chrismcclendon0/osticket-prereqs/assets/144953146/ad10d355-a7a7-4adb-9df4-7f2891a8ed98)
 
+
+![image](https://github.com/Chrismcclendon0/osticket-prereqs/assets/144953146/0710eb8c-2644-4915-b343-5dbeb30eaf17)
 </p>
 <br />
