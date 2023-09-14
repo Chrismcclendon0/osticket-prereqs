@@ -85,5 +85,15 @@ Continue Setting up osTicket in the browser (click Continue). Name Helpdesk. Def
 
 
 ![image](https://github.com/Chrismcclendon0/osticket-prereqs/assets/144953146/0710eb8c-2644-4915-b343-5dbeb30eaf17)
+![image](https://github.com/Chrismcclendon0/osticket-prereqs/assets/144953146/849f9155-dc64-4fbd-97d1-e61846d3e9af)
+![image](https://github.com/Chrismcclendon0/osticket-prereqs/assets/144953146/9b91395d-d570-483e-b32f-2a4cecb69010)
+
+
+From the Installation Files, download and install HeidiSQL. Open Heidi SQL Create a new session, root/Password. Connect to the session. Create a database called “osTicket”.
+Continue Setting up osticket in the browser
+MySQL Database: osTicket
+MySQL Username: root
+MySQL Password: Password1
+Click “Install Now!”
 </p>
 <br />
